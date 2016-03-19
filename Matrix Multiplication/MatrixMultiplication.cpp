@@ -1,6 +1,4 @@
 /*	Name: Vivian Lee
-	Student ID: 913459409
-	E-Mail: vlee1@mail.sfsu.edu
 	Compiler: Microsoft Visual Studio Express 2015
 
 	Description: This program computes the product of two matrices. The user is prompted 
