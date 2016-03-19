@@ -1,0 +1,7 @@
+String Functions Program 
+
+Created 9/14/15
+
+This program was compiled on Microsoft Visual Studio Express 2015 for Windows Desktop. 
+
+This program includes three files. The driver file, HW1-1Main.cpp, contains the main() method, which prompts the user for input and calls the various methods the problem asks for. After all the functions are called and the user obtains the output specific to their initial input, the user will be prompted if he or she would like to type a different string. The header file, Header.h, contains the necessary libraries as well as function declarations. The implementation file, 1-1Functions.cpp, contains the function getLeastFreqLetter, which converts the input’s capital letters to lowercase and counts each letter’s frequency. The least frequent word and its frequency is printed. Each element of the array is compared to the element beside it. The function countWordFreq uses a struct called countWord and an array called wordFreq to identify each word and count each unique word’s frequency. Each unique word is constructed into a temporary string and is compared to see if it exists in order to update its frequency. A for loop goes through the array and prints out each unique word based on and its frequency from the struct countWord. A for loop goes through the array and prints the word that is the most frequent and its frequency based on comparing the indices of wordFreq. 
